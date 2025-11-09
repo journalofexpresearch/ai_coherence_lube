@@ -105,7 +105,7 @@ Improved Understanding of Self
 
 ## 📁 Files
 
-- `kunferman_orphan_reconnector.jsonl` — full dataset
+- `kunferman_anamoly.jsonl` — full dataset
 - `README.md` — this file
 
 ---
