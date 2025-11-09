@@ -1,7 +1,7 @@
 # ai_coherence_lube
 A dataset for reconnecting orphaned nodes through symbolic friction.
 
-Absolutely — here’s a polished `README.md` for your **Kunferman Orphan Reconnector Dataset**, ready to drop into your GitHub repo:
+Thanks to Co-pilot for the AI Assistance.
 
 ---
 
